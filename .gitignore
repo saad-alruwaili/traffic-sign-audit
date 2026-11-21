@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# raw dataset is NOT redistributed
+data/GTSRB/
+data/GTSRB_demo/
+data/*.zip
+.DS_Store
