@@ -1,0 +1,4 @@
+,sharpness_lapvar,contrast_gray,brightness_gray
+sharpness_lapvar,1.0,0.679,0.626
+contrast_gray,0.679,1.0,0.776
+brightness_gray,0.626,0.776,1.0

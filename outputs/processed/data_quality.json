@@ -1,0 +1,37 @@
+{
+  "n_rows": 39209,
+  "n_csv_files": 1,
+  "n_classes": 43,
+  "dtypes": {
+    "Filename": "str",
+    "Width": "float64",
+    "Height": "float64",
+    "Roi.X1": "float64",
+    "Roi.Y1": "float64",
+    "Roi.X2": "float64",
+    "Roi.Y2": "float64",
+    "ClassId": "Int64"
+  },
+  "missing_values": {
+    "Filename": 0,
+    "Width": 0,
+    "Height": 0,
+    "Roi.X1": 0,
+    "Roi.Y1": 0,
+    "Roi.X2": 0,
+    "Roi.Y2": 0,
+    "ClassId": 0
+  },
+  "n_duplicate_rows": 0,
+  "n_duplicate_image_paths": 0,
+  "n_invalid_image_paths": 0,
+  "n_invalid_class_id": 0,
+  "n_invalid_dimensions": 0,
+  "n_invalid_or_absent_roi": 0,
+  "annotation_file_problems": [
+    {
+      "file": "Train.csv",
+      "reason": "image paths contained a foreign prefix; the first 1 path component(s) were ignored when locating files"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+feature,eta_squared,effect_size
+min_side_px,0.115,medium
+brightness_gray,0.103,medium
+contrast_gray,0.069,medium
+log10_sharpness,0.076,medium

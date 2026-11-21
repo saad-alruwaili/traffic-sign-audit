@@ -1,0 +1,44 @@
+class_id,n_full,class_name,selected,n_sampled
+0,210,Speed limit 20,True,210
+1,2220,Speed limit 30,True,500
+2,2250,Speed limit 50,False,0
+3,1410,Speed limit 60,False,0
+4,1980,Speed limit 70,False,0
+5,1860,Speed limit 80,False,0
+6,420,End of speed limit 80,False,0
+7,1440,Speed limit 100,False,0
+8,1410,Speed limit 120,False,0
+9,1470,No passing,False,0
+10,2010,No passing (>3.5 t),False,0
+11,1320,Right-of-way at next intersection,False,0
+12,2100,Priority road,False,0
+13,2160,Yield,True,500
+14,780,Stop,True,500
+15,630,No vehicles,False,0
+16,420,Vehicles >3.5 t prohibited,False,0
+17,1110,No entry,True,500
+18,1200,General caution,False,0
+19,210,Dangerous curve left,False,0
+20,360,Dangerous curve right,False,0
+21,330,Double curve,False,0
+22,390,Bumpy road,False,0
+23,510,Slippery road,False,0
+24,270,Road narrows on the right,False,0
+25,1500,Road work,True,500
+26,600,Traffic signals,False,0
+27,240,Pedestrians,False,0
+28,540,Children crossing,False,0
+29,270,Bicycles crossing,False,0
+30,450,Beware of ice/snow,False,0
+31,780,Wild animals crossing,False,0
+32,240,End of all speed/passing limits,False,0
+33,689,Turn right ahead,False,0
+34,420,Turn left ahead,False,0
+35,1200,Ahead only,False,0
+36,390,Go straight or right,False,0
+37,210,Go straight or left,False,0
+38,2070,Keep right,False,0
+39,300,Keep left,False,0
+40,360,Roundabout mandatory,False,0
+41,240,End of no passing,False,0
+42,240,End of no passing (>3.5 t),False,0

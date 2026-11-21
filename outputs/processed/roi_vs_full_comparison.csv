@@ -1,0 +1,4 @@
+feature,mean_full,mean_roi,mean_abs_diff,spearman_full_vs_roi
+brightness_gray,99.065,101.987,10.544,0.956
+contrast_gray,46.341,44.48,4.255,0.959
+sharpness_lapvar,2063.826,2705.587,785.914,0.952

@@ -1,0 +1,19 @@
+scenario,class_id,class_name,n_images,n_flagged,flag_rate_pct,ci95_low_pct,ci95_high_pct
+baseline_P10_P90,0,Speed limit 20,210,49,23.33,18.12,29.5
+baseline_P10_P90,1,Speed limit 30,500,112,22.4,18.96,26.26
+baseline_P10_P90,13,Yield,500,200,40.0,35.8,44.35
+baseline_P10_P90,14,Stop,500,100,20.0,16.73,23.73
+baseline_P10_P90,17,No entry,500,217,43.4,39.12,47.78
+baseline_P10_P90,25,Road work,500,170,34.0,29.98,38.26
+strict_P5_P95,0,Speed limit 20,210,7,3.33,1.62,6.72
+strict_P5_P95,1,Speed limit 30,500,55,11.0,8.55,14.05
+strict_P5_P95,13,Yield,500,104,20.8,17.47,24.57
+strict_P5_P95,14,Stop,500,43,8.6,6.45,11.38
+strict_P5_P95,17,No entry,500,113,22.6,19.15,26.47
+strict_P5_P95,25,Road work,500,98,19.6,16.36,23.31
+lenient_P20_P80,0,Speed limit 20,210,89,42.38,35.89,49.14
+lenient_P20_P80,1,Speed limit 30,500,265,53.0,48.62,57.34
+lenient_P20_P80,13,Yield,500,335,67.0,62.76,70.98
+lenient_P20_P80,14,Stop,500,223,44.6,40.3,48.98
+lenient_P20_P80,17,No entry,500,350,70.0,65.84,73.85
+lenient_P20_P80,25,Road work,500,306,61.2,56.86,65.37
